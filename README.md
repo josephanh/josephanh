@@ -1,3 +1,10 @@
+------------------------------------------------
+|                                              |
+|                                              |
+|                                              |
+|                                              |
+|----------------------------------------------|
+
 - 👋 Hi, I’m @josephanh
 - 👀 I’m interested in ... you
 - 🌱 I’m currently learning ... how to love only you
@@ -5,12 +12,6 @@
 - 📫 How to reach me ... by my heart's way...
 - 😄 Pronouns: ... some children
 - ⚡ Fun fact: ... I love you
-________________________________________________
-|                                              |
-|                                              |
-|                                              |
-|                                              |
-|______________________________________________|
 
 <!---
 josephanh/josephanh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
